@@ -1,0 +1,9 @@
+Szamold meg, hogy hanyszor szerepel a “lord” kifejezes az alabbi linken talalhato Hamletben: http://shakespeare.mit.edu/hamlet/full.html
+Fontos, hogy csak a lord illetve lords kifejezes legyen engedve, lordship meg tarsai ne.
+A Feladathoz csak terminalt hasznaljatok, illetve Pipe-t.
+Segitseg: “wc –l” nevu parancs kepes megszamolni az STDIN re kapott inputnak az uj sorjait.
+ 
+Good luck
+
+####
+curl http://shakespeare.mit.edu/hamlet/full.html | grep -w "lord\|lords" | wc -l
