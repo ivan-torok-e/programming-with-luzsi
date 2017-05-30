@@ -27,5 +27,3 @@ Copied the VSCode link by drag and drop to the bin folder. Modified permission t
 Updated the .bashrc file in the ~ directory: added "cd /home/itorok/bin" to the end of the file. Since then all terminals open like this:
 
 itorok@itorok-VirtualBox:~/bin$ 
-
-
