@@ -25,3 +25,7 @@ Visual Studio Code install: done (using software center in Ubuntu)
 Created bin directory inside the $HOME directory: /home/itorok/bin
 Copied the VSCode link by drag and drop to the bin folder. Modified permission to allow running the file. (all done through the graphical interface. I have no idea how to do the same using terminal.)
 Updated the .bashrc file in the ~ directory: added "cd /home/itorok/bin" to the end of the file. Since then all terminals open like this:
+
+itorok@itorok-VirtualBox:~/bin$ 
+
+
