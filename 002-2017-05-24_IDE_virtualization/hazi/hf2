@@ -1,0 +1,27 @@
+A hazifeladat a kovetkezo:
+* Telepitsetek virtualboxot
+* Toltsetek le a legfrissebb ubuntut (desktop)
+* telepitsetek a virtualboxban
+  * Ha megakadtok barhol, keressetek fel nyugodtan
+* Telepitsetek egy VSCode – ot az ubuntun belul
+  * opcionalisan a sajat gepeteken is lehet, de elso sorban egy egyseges fejlesztesi konyzetetet szeretnek harmotoknak : )
+
+
+VSCode telepites:
+·         Download Visual Studio Code for Linux
+·         Extract it: unzip VSCode-linux-x64.zip -d ~/path/to/VSCode
+·         Run the code executable to open Visual Studio Code
+·         (Optional) Create a symbolic link to conveniently run code from the terminal:
+·         sudo ln -s /path/to/VSCode/code /usr/local/bin/code
+
+Bonus:
+Tedd a vscode program indito linkjet a $HOME/bin be,
+s a bash profile-ban allitsad be hogy ez a mappa legyen nezve terminal parancs inditasokkor.
+
+#######
+VirtualBox install: done
+Ubuntu install: done
+Visual Studio Code install: done (using software center in Ubuntu)
+Created bin directory inside the $HOME directory: /home/itorok/bin
+Copied the VSCode link by drag and drop to the bin folder. Modified permission to allow running the file. (all done through the graphical interface. I have no idea how to do the same using terminal.)
+Updated the .bashrc file in the ~ directory: added "cd /home/itorok/bin" to the end of the file. Since then all terminals open like this:
