@@ -4,3 +4,14 @@ Ruby - jó második nyelv. Minden egy metódus. (objektum orientált)
  Sajátosság: kell hozzá Ruby gépet telepíteni dependenciákkal, verzióval, stb-vel.
 Go - szigorúan bánik a formázással és a dependenciákkal (nem enged compileolni, ha nincs rendesen formázva, illetve nem engedi a nem használt dependenciákat ((függőségeket)) ). Cirkuláris dependenciát sem enged.
 
+2017-05-31 08:41:14
+Szakosodási irányok
+    # CLI - command line interface (stdin, stdout, stderr: erre a háromra kell figyelni kb.)
+    # Server oldali programozás - (aka: service. ennek lehet egy browser felülete, de lehet csak simán egy API interface-e.)
+    # GUI - Graphical User Interface (kliens oldali programozás (bár ez mostanában mixelődött a JavaScriptes, böngészőben futó dolgok). Van ablaka, lehet kattintgatni, stb...)
+
+2017-05-31 08:49:49
+    # PHP
+
+2017-05-31 08:50:30
+    # HF: telepíteni a PHP-t
