@@ -1,0 +1,6 @@
+2017-05-31 08:20:31
+PHP - jó kezdésnek. Megengedő. Egy procit használ.
+Ruby - jó második nyelv. Minden egy metódus. (objektum orientált)
+ Sajátosság: kell hozzá Ruby gépet telepíteni dependenciákkal, verzióval, stb-vel.
+Go - szigorúan bánik a formázással és a dependenciákkal (nem enged compileolni, ha nincs rendesen formázva, illetve nem engedi a nem használt dependenciákat ((függőségeket)) ). Cirkuláris dependenciát sem enged.
+
